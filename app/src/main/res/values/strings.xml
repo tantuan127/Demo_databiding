@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoMVP</string>
+    <string name="msg_loginerror">Login Error !</string>
+    <string name="msg_loginok">Login OK !</string>
+    <string name="title_id">Tuan</string>
+    <string name="title_pass">123</string>
+</resources>
